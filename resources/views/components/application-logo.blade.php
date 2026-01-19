@@ -1,0 +1,1 @@
+<span class="text-gray-400 text-center text-6xl hover:text-white hover:cursor-pointer font-extrabold">HDTS</span>
